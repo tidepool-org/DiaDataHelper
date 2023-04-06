@@ -1,0 +1,16 @@
+{
+  "name": "diadata",
+  "version": "1.0.0",
+  "description": "Diabetes data generator for Tidepool testing",
+  "main": "simulate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ginny Yadav",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "@faker-js/faker": "7.6.0",
+    "luxon": "3.2.1",
+    "ml-savitzky-golay": "5.0.0"
+  }
+}
