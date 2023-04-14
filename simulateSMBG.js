@@ -62,7 +62,7 @@ for (let i = 0; i < 1080 && date < DateTime.now().minus({ days: 1 }); i++) {
 
   // Generate data for datum object
   const smbgDatum = {
-    deviceId: 'Tidepool Testing Meter',
+    deviceId: 'OneTouchUltra2-JNGZ162-T0111',
     type: 'smbg',
     units: 'mg/dl',
     time: date.toFormat("yyyy-MM-dd'T'HH:mm:ss'Z'"),

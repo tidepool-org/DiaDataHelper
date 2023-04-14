@@ -1,3 +1,4 @@
+/* eslint-disable comma-dangle */
 const fs = require('fs');
 const { DateTime } = require('luxon');
 const { faker } = require('@faker-js/faker');
