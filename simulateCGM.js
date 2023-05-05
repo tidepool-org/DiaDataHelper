@@ -82,9 +82,8 @@ function generateCarbsAndIob(currentBg) {
   }
   return [carbs, iob, insulinDelivered, cob];
 }
-
-// Loop to create enough CGM data for 90 days
-for (let i = 0; i < 25920; i++) {
+// Loop to create enough CGM data for 2 days
+for (let i = 0; i < totalIterations; i++) {
   date = date.plus({ minutes: 5 });
 
   // Generate a random number of carbs and iob every 6 hours using the function defined earlier
@@ -121,14 +120,17 @@ for (let i = 0; i < 25920; i++) {
   }
 
   // Generate data for cbgdatum, basaldatum and carbdatum
-  const cbgdatum = generateCbgDatum(date, bg);
+  const cbgdatum = generateCbgDatum(date, bg, service);
   // console.log (`${bg} after cbgdatum function`)
   const basaldatum = generateBasalDatum(date, bg, iob);
   const carbdatum = generateCarbDatum(date, carbs, insulinDelivered);
 
   // Determine the index of the datasets array based on i
   const index = Math.floor(i / 5000);
-  pushData(index, cbgdatum, carbdatum, basaldatum);
+
+  if ((i % iterationsPerDay) < Math.ceil(iterationsPerDay * cgmUse)) {
+    pushData(index, cbgdatum, carbdatum, basaldatum);
+  }
 }
 
 // Write the datasets array to different files using a loop or api will timeout
