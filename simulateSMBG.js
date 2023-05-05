@@ -29,7 +29,7 @@ function clampBgAndResetCarbsAndIob(currentBg) {
     carbs = 0;
     iob += 1;
   } else if (currentBg <= 55) {
-    bg = 55;
+    bg = 53;
     carbs = 20;
     iob = 0;
   }
