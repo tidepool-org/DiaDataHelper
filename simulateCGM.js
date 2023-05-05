@@ -2,10 +2,51 @@
 const fs = require('fs');
 const { DateTime } = require('luxon');
 const { faker } = require('@faker-js/faker');
+const yargs = require('yargs/yargs');
+const { hideBin } = require('yargs/helpers');
 const { generateCbgDatum, generateBasalDatum, generateCarbDatum } = require('./utils/generateDatums');
 
-const datasets = [[], [], [], [], [], []];
-let date = DateTime.now().minus({ days: 91 });
+const { cgmuse, days, service } = yargs(hideBin(process.argv))
+  .options({
+    cgmuse: {
+      alias: 'use',
+      describe: 'Percentage of CGM usage (0-100)',
+      type: 'number',
+      demandOption: true,
+    },
+    days: {
+      alias: 'd',
+      describe: 'Number of cumulative days',
+      type: 'number',
+      demandOption: true,
+    },
+    service: {
+      alias: 's',
+      describe: 'service used to upload',
+      type: 'string',
+      demandOption: true,
+    },
+  })
+  .check((argv) => {
+    if (argv.cgmuse >= 0 && argv.cgmuse <= 100) {
+      return true;
+    }
+    throw new Error('CGM usage must be between 0 and 100');
+  }).argv;
+
+const cumulativeDays = days;
+const cgmUse = cgmuse / 100;
+const numberOfDays = Math.ceil(cumulativeDays / cgmUse);
+const iterationsPerDay = 288;
+const totalIterations = numberOfDays * iterationsPerDay;
+const subarraySize = 5000;
+const numberOfSubarrays = Math.ceil(totalIterations / subarraySize);
+const datasets = Array.from({ length: numberOfSubarrays }, () => []);
+
+let date = DateTime.now().startOf('day').minus({
+  // eslint-disable-next-line max-len
+  days: numberOfDays, hours: DateTime.now().hour, minutes: DateTime.now().minute, seconds: DateTime.now().second
+});
 let bg = faker.datatype.number({ min: 100, max: 200, precision: 0.0001 });
 let carbs = 0;
 let cob = 0;
