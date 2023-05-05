@@ -11,7 +11,8 @@
   "dependencies": {
     "@faker-js/faker": "7.6.0",
     "luxon": "3.2.1",
-    "ml-savitzky-golay": "5.0.0"
+    "ml-savitzky-golay": "5.0.0",
+    "yargs": "^17.7.1"
   },
   "devDependencies": {
     "eslint": "^8.37.0",
