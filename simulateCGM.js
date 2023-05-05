@@ -107,8 +107,8 @@ for (let i = 0; i < totalIterations; i++) {
     bg += deltabg;
   }
 
-  // Clamp bg between 55 and 300
-  bg = Math.min(Math.max(bg, 55), 300);
+  // Clamp bg between 53 and 300
+  bg = Math.min(Math.max(bg, 53), 300);
 
   // Reset carbs and iob if bg is too high or low
   if (bg === 300) {
