@@ -134,22 +134,14 @@ for (let i = 0; i < totalIterations; i++) {
 }
 
 // Write the datasets array to different files using a loop or api will timeout
-fs.mkdir('results', { recursive: true }, (mkdirErr) => {
-  if (mkdirErr) {
-    console.error(mkdirErr);
-  } else {
-    for (let j = 0; j < 5; j++) {
-      fs.writeFile(
-        `results/cbg_data${j + 1}.json`,
-        JSON.stringify(datasets[j]),
-        (writeFileErr) => {
-          if (writeFileErr) {
-            console.error(writeFileErr);
-            return;
-          }
-          console.log(`Data Generated for dataset ${j}`);
-        }
-      );
-    }
+try {
+  fs.mkdirSync('results', { recursive: true });
+  for (let j = 0; j < numberOfSubarrays; j++) {
+    const filename = `results/${service}cbg_${cgmuse}use_over${numberOfDays}days_cumulative${cumulativeDays}days${j + 1}.json`;
+    fs.writeFileSync(filename, JSON.stringify(datasets[j]));
+    console.log(`Data Generated for dataset ${j}`);
   }
-});
+  console.log('All datasets generated!');
+} catch (err) {
+  console.error(err);
+}
