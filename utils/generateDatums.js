@@ -19,14 +19,25 @@ function generateCarbDatum(date, carbs, insulinDelivered) {
   };
 }
 
-function generateCbgDatum(date, bg) {
+function generateCbgDatum(date, bg, service) {
+  if (service === 'platform') {
+    return {
+      deviceId: 'Tandem',
+      deviceTime: date.toFormat("yyyy-MM-dd'T'HH:mm:ss"),
+      type: 'cbg',
+      units: 'mg/dl',
+      time: date.toFormat("yyyy-MM-dd'T'HH:mm:ss'Z'"),
+      value: bg,
+    };
+  }
   return {
-    deviceId: 'Tidepool Testing Pump',
+    deviceId: 'Dexcom',
     deviceTime: date.toFormat("yyyy-MM-dd'T'HH:mm:ss"),
     type: 'cbg',
     units: 'mg/dl',
     time: date.toFormat("yyyy-MM-dd'T'HH:mm:ss'Z'"),
     value: bg,
+    uploadId: faker.datatype.uuid().replace(/-/g, ''),
   };
 }
 
