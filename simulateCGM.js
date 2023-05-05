@@ -96,7 +96,7 @@ for (let i = 0; i < 25920; i++) {
     iob -= (iob / 180) * 5;
     carbs = 0;
     insulinDelivered = 0;
-    // in this model insluin takes down the carb effect by half
+    // in this model insulin takes down the carb effect by half
     const cobeffect = cob * 0.1;
     let iobeffect;
     if (cob > 0) {
