@@ -1,9 +1,28 @@
 const fs = require('fs');
 const { DateTime } = require('luxon');
 const { faker } = require('@faker-js/faker');
+const yargs = require('yargs/yargs');
+const { hideBin } = require('yargs/helpers');
+
+const { days } = yargs(hideBin(process.argv))
+  .options({
+    days: {
+      alias: 'd',
+      describe: 'Number of days',
+      type: 'number',
+      demandOption: true,
+    },
+  })
+  .check((argv) => {
+    if (argv.days > 0 && argv.days <= 120) {
+      return true;
+    }
+    throw new Error('days must be > 0 and < 120');
+  }).argv;
 
 const dataset = [];
-let date = DateTime.now().minus({ days: 120 });
+const totalDays = days + 1;
+let date = DateTime.now().startOf('day').minus({ days: totalDays });
 let bg = faker.datatype.number({ min: 100, max: 300, precision: 0.0001 });
 let carbs = 0;
 let iob = 0;
@@ -29,15 +48,15 @@ function clampBgAndResetCarbsAndIob(currentBg) {
     carbs = 0;
     iob += 1;
   } else if (currentBg <= 55) {
-    bg = 55;
+    bg = 53;
     carbs = 20;
     iob = 0;
   }
   return [bg, carbs, iob];
 }
 
-// Loop to create enough SMBG data for the last four months
-for (let i = 0; i < 1080 && date < DateTime.now().minus({ days: 1 }); i++) {
+// Loop to create enough SMBG data for the desired days
+for (let i = 0; i < totalDays * 8 && date < DateTime.now().minus({ hours: 6, minutes: 30 }); i++) {
   // Add a random number of hours and minutes to the date
   date = date.plus(
     {
@@ -88,7 +107,7 @@ fs.mkdir('results', { recursive: true }, (mkdirErr) => {
     console.error(mkdirErr);
     return;
   }
-  fs.writeFile('results/smbg_data.json', JSON.stringify(dataset), (writeFileErr) => {
+  fs.writeFile(`results/smbg_data_${days}days.json`, JSON.stringify(dataset), (writeFileErr) => {
     if (writeFileErr) {
       console.error(writeFileErr);
       return;
