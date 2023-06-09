@@ -10,6 +10,7 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "@faker-js/faker": "7.6.0",
+    "gamma": "^1.0.0",
     "luxon": "3.2.1",
     "ml-savitzky-golay": "5.0.0",
     "yargs": "^17.7.1"

@@ -3,11 +3,12 @@ const { DateTime } = require('luxon');
 const { faker } = require('@faker-js/faker');
 
 const dataset = [];
-let date = DateTime.now().minus({ days: 120 });
+const days = 120;
+let date = DateTime.now().minus({ days: days });
 let bg = faker.datatype.number({ min: 100, max: 300, precision: 0.0001 });
 let carbs = 0;
 let iob = 0;
-for (let i = 0; i < 1080 && date < DateTime.now().minus({ days: 1 }); i++) {
+for (let i = 0; i < days && date < DateTime.now().minus({ days: 1 }); i++) {
   date = date.plus({
     hours: faker.datatype.number({
       min: 3, max: 6, precision: 1,
