@@ -1,0 +1,3661 @@
+[
+  {
+    "associations": [
+      {
+        "id": "0d4482e64fcaf64c6e7aab813f811538",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "4f0feb87eaefe5697998b5652207f35d",
+    "method": "manual",
+    "origin": {
+      "id": "9E3F8B35-3D5D-4710-B273-CF783B9A71BD:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "9E3F8B35-3D5D-4710-B273-CF783B9A71BD"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-12-17T23:42:48.9Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "fc6f994815fb5be6b276e55901ced90f",
+    "origin": {
+      "id": "545383264cd0b204d5512fd3b8216f7e:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "545383264cd0b204d5512fd3b8216f7e"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-12-17T03:52:30.366Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "5e2ac7d461b8f80e6c0e4c7f6ea15388",
+    "origin": {
+      "id": "93e714a675fe00215cb33f3049bc11e0:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "93e714a675fe00215cb33f3049bc11e0"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-12-17T03:48:37.705Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "2b9672a5a6f2895a336c3f3b7d2928f9",
+    "origin": {
+      "id": "2e0ed21b2b439194341cf715062f62ca:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "2e0ed21b2b439194341cf715062f62ca"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-12-15T09:11:37.861Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "d0d4d027ba424472e3f6c53a21baafe0",
+    "origin": {
+      "id": "5bad5e35259874f4adba4e045447e086:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "5bad5e35259874f4adba4e045447e086"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-12-15T09:01:52.012Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "fa3a32ba11a199be035c42c167696e99",
+    "origin": {
+      "id": "7786dd146575e8cc51844d05d5ece560:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "7786dd146575e8cc51844d05d5ece560"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-12-13T15:55:59.467Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "fe4f546eda27e0975d0859166cb92341",
+    "origin": {
+      "id": "755c3a137d73de054d99c5bd02c48a6e:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "755c3a137d73de054d99c5bd02c48a6e"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-12-13T15:53:14.037Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "8db89556cdd1dc6437b5c5e894710c65",
+    "origin": {
+      "id": "599a82952bf26c916ab34d43f67b27ce:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "599a82952bf26c916ab34d43f67b27ce"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-12-11T15:34:09.732Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "dc3650c756e31868ae3bedda97239725",
+    "origin": {
+      "id": "9f0e37a4cb4eab68e3fcce6f718a438a:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "9f0e37a4cb4eab68e3fcce6f718a438a"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-12-11T15:30:56.782Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "403594bc49824c27d1ae9be7704b3f1c",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "36c4956a46bfe6268124fed0fb703fc3",
+    "method": "manual",
+    "origin": {
+      "id": "413F2930-2CDC-41FC-9FCA-24D95F527F4A:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "413F2930-2CDC-41FC-9FCA-24D95F527F4A"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-12-10T18:21:37.69Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "403594bc49824c27d1ae9be7704b3f1c",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "9377a198581106e8cf233b019b19ea7d",
+    "method": "manual",
+    "origin": {
+      "id": "741F15A0-1E0A-4965-8A4A-1B375D2BE4CC:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "741F15A0-1E0A-4965-8A4A-1B375D2BE4CC"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-12-09T18:23:59.639Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "f448b226d85504f7f46a916c649ceb20",
+    "origin": {
+      "id": "8aea91e4fde3b668cc275ce00661df6f:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "8aea91e4fde3b668cc275ce00661df6f"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-12-09T14:29:31.486Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "6796d4081efdfbf6ae5508b59c2e2fc7",
+    "origin": {
+      "id": "0863215b35b5a6302272b55d8fe36fa4:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "0863215b35b5a6302272b55d8fe36fa4"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-12-09T14:27:01.911Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "63d79668e422072d20272df159b61f5c",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "31cf4d95962e876297c5d8ca54d6d741",
+    "method": "manual",
+    "origin": {
+      "id": "F91E3C95-ED45-4B4A-8C3C-358C4123D23B:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "F91E3C95-ED45-4B4A-8C3C-358C4123D23B"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-12-08T23:01:13.637Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "ec78697add9ba7d59ef5127f5a913cb9",
+    "origin": {
+      "id": "707ad008b248e10e269e1dc2b27d4c2f:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "707ad008b248e10e269e1dc2b27d4c2f"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-12-07T15:39:08.849Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "be806a6888de8e3cbc3a83ba0fbf6f4e",
+    "origin": {
+      "id": "37729a24e8bb026021b8123318951212:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "37729a24e8bb026021b8123318951212"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-12-07T15:37:19.388Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "4ee99548b02235477d5bc4735479f4a7",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 1222,
+    "expectedDuration": 3600,
+    "id": "36c10dff036f4639d2102aeb4aa999ab",
+    "method": "manual",
+    "origin": {
+      "id": "D1987EC5-C82C-4E67-90CA-02B237604268:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "D1987EC5-C82C-4E67-90CA-02B237604268"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-12-06T15:15:11.17Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "d8f0e38fa4def937dbaf89e1cfabeb38",
+    "origin": {
+      "id": "7100853dcbc9ad01773ad2bdab4503d7:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "7100853dcbc9ad01773ad2bdab4503d7"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-12-05T04:19:42.788Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "a92317276e69f4bcad72d387d802682a",
+    "origin": {
+      "id": "3a848f5a81c453c1ce0d1d59d7f4e09a:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "3a848f5a81c453c1ce0d1d59d7f4e09a"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-12-05T04:04:56.38Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "635b73e9d3c228406103481c652d4d4e",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 836,
+    "expectedDuration": 3600,
+    "id": "f5f7ded253dc41e4619e6a5f3fdc0e07",
+    "method": "manual",
+    "origin": {
+      "id": "EE421C87-7EE7-4C55-B8E2-618AD25037FD:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "EE421C87-7EE7-4C55-B8E2-618AD25037FD"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-12-04T15:18:59.21Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "0d9a612ac109db8bd1b85a69dffa85da",
+    "origin": {
+      "id": "e4cb88aaa895da1d5f93371a355b201f:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "e4cb88aaa895da1d5f93371a355b201f"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-12-03T17:39:37.584Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "7cfcb48d04075846fe2b06d5595974b4",
+    "origin": {
+      "id": "e1bfcd28fa3f4ba0e2d30744605a0228:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "e1bfcd28fa3f4ba0e2d30744605a0228"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-12-03T17:37:43.956Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "758912770d7d7e3cf2fe64ad720b1122",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 309,
+    "expectedDuration": 3600,
+    "id": "e829793ebcfe46162cf12e1ee585c864",
+    "method": "manual",
+    "origin": {
+      "id": "F9FE5C6F-66FE-483A-B9D5-E21E4D73F5ED:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "F9FE5C6F-66FE-483A-B9D5-E21E4D73F5ED"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-12-03T14:54:55.775Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "758912770d7d7e3cf2fe64ad720b1122",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "7bae19e210f5f4167bd113022ccf02c3",
+    "method": "manual",
+    "origin": {
+      "id": "3CAB36DE-FF9A-4889-8AAD-9B790A5E46DD:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "3CAB36DE-FF9A-4889-8AAD-9B790A5E46DD"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-12-02T22:23:46.042Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "758912770d7d7e3cf2fe64ad720b1122",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "60b917974edacf79dff6b8a6431834b6",
+    "method": "manual",
+    "origin": {
+      "id": "B4700FE9-6350-4DA3-BC9C-856B8403147E:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "B4700FE9-6350-4DA3-BC9C-856B8403147E"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-12-02T18:58:59.928Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "758912770d7d7e3cf2fe64ad720b1122",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 2325,
+    "expectedDuration": 3600,
+    "id": "c60459400a8b3f50ba3d468a2bb990a3",
+    "method": "manual",
+    "origin": {
+      "id": "466B64A7-7570-4FDA-836E-E45747522D9C:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "466B64A7-7570-4FDA-836E-E45747522D9C"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-12-01T17:06:29.114Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "d0893171ccb1d8c0ddfc2712f894761d",
+    "origin": {
+      "id": "d1c0c9e42be0f115218881b25793a469:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "d1c0c9e42be0f115218881b25793a469"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-12-01T12:42:54.303Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "b29326946ae449ad509fe720c3cea5db",
+    "origin": {
+      "id": "47852a5f1d34a856839d013404efd772:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "47852a5f1d34a856839d013404efd772"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-12-01T12:41:08.372Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "a2bd8602c8e2a333079cfe8e116fa110",
+    "origin": {
+      "id": "edaad765fab8f487aee190bccea2f401:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "edaad765fab8f487aee190bccea2f401"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-12-01T12:40:45.649Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "75e3cd6221685b0ef6a496d1f417f3ed",
+    "origin": {
+      "id": "39bc639364bb6c10fddbb22adcf68f8e:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "39bc639364bb6c10fddbb22adcf68f8e"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-12-01T12:35:32.145Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "2bef2bd1022862f7e682538bb16f2aba",
+    "origin": {
+      "id": "785fb4694fb0bd6532e7d133a80031d1:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "785fb4694fb0bd6532e7d133a80031d1"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-11-29T00:56:56.619Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "d96d8678a5de7f1ac56928506977ea55",
+    "origin": {
+      "id": "0659a99c2811bdf84ef8547fcf6b4d03:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "0659a99c2811bdf84ef8547fcf6b4d03"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-11-29T00:54:08.292Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "7acbd79b9d7e6301687d1bb15a08f414",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "fcd905cf4797288e4c1cdd433ef15b4e",
+    "method": "manual",
+    "origin": {
+      "id": "2C7596BA-ED87-459E-B6FD-AA25F30CC2FD:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "2C7596BA-ED87-459E-B6FD-AA25F30CC2FD"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-11-27T18:02:02.999Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "c1b02248ef470108ada1d75079b7b1a4",
+    "origin": {
+      "id": "ff3fdcdad7ea476a237c4b1611aa1a3a:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "ff3fdcdad7ea476a237c4b1611aa1a3a"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-11-27T00:13:41.826Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "deeaa78e48ec0a0682b47e6e3da1f194",
+    "origin": {
+      "id": "465b9da6398bd3ff4dbfe16bfc444db7:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "465b9da6398bd3ff4dbfe16bfc444db7"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-11-27T00:10:59.964Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "69f576b27bf49c57f42b540c1965891b",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "00fcfec0d852e57044f621cb05bb06fe",
+    "method": "manual",
+    "origin": {
+      "id": "0912BEA1-16F3-47C5-AB50-89AFFE8E37B1:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "0912BEA1-16F3-47C5-AB50-89AFFE8E37B1"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-11-26T23:49:24.793Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "69f576b27bf49c57f42b540c1965891b",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "28de21e4b0e3dbf8732991f2ae30770f",
+    "method": "manual",
+    "origin": {
+      "id": "EC09B95D-D2BF-4D71-9805-B4D9FD7E25BF:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "EC09B95D-D2BF-4D71-9805-B4D9FD7E25BF"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-11-26T18:07:55.636Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "6e13882fe71d5aade664b2da5383b6a0",
+    "origin": {
+      "id": "53a30d190cf7a93448f6c927b3c42c5f:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "53a30d190cf7a93448f6c927b3c42c5f"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-11-25T22:21:37.237Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "b26266a23e57656968134ba94c2d445f",
+    "origin": {
+      "id": "a3971f3bec5a3e02bb9c67d66ea3c45d:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "a3971f3bec5a3e02bb9c67d66ea3c45d"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-11-25T21:42:05.949Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "0f87200b54e5ae5f09da5dfeabeb924b",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "748c078bdf3580d2303a23bf6a9a2db5",
+    "method": "manual",
+    "origin": {
+      "id": "83D0511B-3BE3-4473-A6BF-E6E675C8A781:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "83D0511B-3BE3-4473-A6BF-E6E675C8A781"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-11-24T19:07:53.458Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "0f87200b54e5ae5f09da5dfeabeb924b",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "b4c0bbeb1c690d0e6517f6930db85652",
+    "method": "manual",
+    "origin": {
+      "id": "36A98A1A-831E-42A9-A326-45E6BF887078:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "36A98A1A-831E-42A9-A326-45E6BF887078"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-11-24T16:40:12.361Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "f9214d503bf954c029adbd72a9cea4f2",
+    "origin": {
+      "id": "4661f12724c13d9c1d26c1d9d52abfc6:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "4661f12724c13d9c1d26c1d9d52abfc6"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-11-24T01:52:34.111Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "353889914310d13167ad66e7472005dc",
+    "origin": {
+      "id": "740bdd2a9de712b37da6ac43dff93707:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "740bdd2a9de712b37da6ac43dff93707"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-11-24T01:50:50.458Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "6ce759e521d5362864c19128a92d9277",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "610de579f6ad6ce6a9e593d657bc7bb4",
+    "method": "manual",
+    "origin": {
+      "id": "B58787FC-61B8-4CD8-9A7E-810F99131DC6:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "B58787FC-61B8-4CD8-9A7E-810F99131DC6"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-11-23T20:40:39.101Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "6ce759e521d5362864c19128a92d9277",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "233ed63f524a4661436abe6cfb7e4d76",
+    "method": "manual",
+    "origin": {
+      "id": "4126F6AD-3A58-4F8F-8E36-B9AF8AB46D7D:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "4126F6AD-3A58-4F8F-8E36-B9AF8AB46D7D"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-11-22T20:01:45.187Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "98f3022575c0d868b6b4816f1fc46e33",
+    "origin": {
+      "id": "88e2e9666a35c12a467f3acbfa272802:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "88e2e9666a35c12a467f3acbfa272802"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-11-22T04:13:52.042Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "3b9df0fde22277457b6bf9d3caded30d",
+    "origin": {
+      "id": "fbe988f3310d98aa8dd1e8b6b81ff19f:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "fbe988f3310d98aa8dd1e8b6b81ff19f"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-11-22T04:09:29.182Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "e154ec33f436f82f9379ead09bdec962",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 2602,
+    "expectedDuration": 3600,
+    "id": "18131e64874f9f4531d859ed33c71f2d",
+    "method": "manual",
+    "origin": {
+      "id": "788304D9-F3CB-4A1B-A244-A33304691748:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "788304D9-F3CB-4A1B-A244-A33304691748"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-11-22T02:07:30.892Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "e154ec33f436f82f9379ead09bdec962",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "b35587771c3d73ab8ece1007fe6a2868",
+    "method": "manual",
+    "origin": {
+      "id": "0C617D0D-5DAA-4DBF-B716-2F6BD5D61E8D:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "0C617D0D-5DAA-4DBF-B716-2F6BD5D61E8D"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-11-19T17:45:50.015Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "ff769201f239ac1d75cf5519f4287b7c",
+    "origin": {
+      "id": "4a147f530aedb3ed517794365973fcb3:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "4a147f530aedb3ed517794365973fcb3"
+    },
+    "reason": {
+      "resumed": "manual"
+    },
+    "status": "resumed",
+    "subType": "status",
+    "time": "2024-11-19T01:25:12.256Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "id": "e2e42c8aaaedc9a32f58eec53c2e6f25",
+    "origin": {
+      "id": "d1a3fc02ac27b424e576d5305afef006:deviceEvent/status",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "d1a3fc02ac27b424e576d5305afef006"
+    },
+    "reason": {
+      "suspended": "manual"
+    },
+    "status": "suspended",
+    "subType": "status",
+    "time": "2024-11-19T01:17:29.744Z",
+    "type": "deviceEvent",
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "c4d64c4a973ab686dc081912a12cce00",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 1087,
+    "expectedDuration": 3600,
+    "id": "55f86f2229306e0c743b305e1c45651e",
+    "method": "manual",
+    "origin": {
+      "id": "B29E48D7-0DBA-45E3-9B3F-70D5E23D042A:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "B29E48D7-0DBA-45E3-9B3F-70D5E23D042A"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-11-19T00:10:32.657Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "associations": [
+      {
+        "id": "c4d64c4a973ab686dc081912a12cce00",
+        "reason": "pumpSettings",
+        "type": "datum"
+      }
+    ],
+    "bgTarget": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "duration": 3600,
+    "id": "8a30d72f3863f52afdb5eb3e877dc57c",
+    "method": "manual",
+    "origin": {
+      "id": "1C7C9B01-8887-4C3C-AE91-E31C3098491F:deviceEvent/pumpSettingsOverride",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "overrideType": "preprandial",
+    "payload": {
+      "syncIdentifier": "1C7C9B01-8887-4C3C-AE91-E31C3098491F"
+    },
+    "subType": "pumpSettingsOverride",
+    "time": "2024-11-18T02:44:45.159Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "deviceEvent",
+    "units": {
+      "bg": "mmol/L"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "29768701a2995526d384758cecc3d23e",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "e946ef8e6326739f6597b62048f9b249",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "0d4482e64fcaf64c6e7aab813f811538",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "A4090061-FDFD-40CF-BC15-745E119016E2:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "A4090061-FDFD-40CF-BC15-745E119016E2"
+    },
+    "serialNumber": "175FC8BD",
+    "softwareVersion": "1.0",
+    "time": "2024-12-17T13:14:35.042Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "29768701a2995526d384758cecc3d23e",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "e946ef8e6326739f6597b62048f9b249",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "d5835efd459c03e1cee96931235d8e40",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "11E57DC5-87B9-45D1-8A93-DF1D6E30CB74:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "11E57DC5-87B9-45D1-8A93-DF1D6E30CB74"
+    },
+    "serialNumber": "175FC8BF",
+    "softwareVersion": "1.0",
+    "time": "2024-12-15T15:46:36.304Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "29768701a2995526d384758cecc3d23e",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "e946ef8e6326739f6597b62048f9b249",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "e5a12e3536e8a47632e03aa033c7486d",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "F60E8B18-9F51-438F-824F-428B58631A81:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "F60E8B18-9F51-438F-824F-428B58631A81"
+    },
+    "serialNumber": "175FC8BE",
+    "softwareVersion": "1.0",
+    "time": "2024-12-13T16:21:36.113Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "0a89acc865b1b75cc0254509cecaf746",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "e946ef8e6326739f6597b62048f9b249",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "f39ebd96ddb5c54f758828453a0f6e83",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "6E9047D2-43D0-4040-8383-65435A78EEB8:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "6E9047D2-43D0-4040-8383-65435A78EEB8"
+    },
+    "serialNumber": "175FC8BD",
+    "softwareVersion": "1.0",
+    "time": "2024-12-11T19:38:01.072Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "0a89acc865b1b75cc0254509cecaf746",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "4ff673f598c7a890510bc7aec8ff67db",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "403594bc49824c27d1ae9be7704b3f1c",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "741F15A0-1E0A-4965-8A4A-1B375D2BE4CC:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "741F15A0-1E0A-4965-8A4A-1B375D2BE4CC"
+    },
+    "serialNumber": "175FC8BF",
+    "softwareVersion": "1.0",
+    "time": "2024-12-09T18:23:59.652Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "0a89acc865b1b75cc0254509cecaf746",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "4ff673f598c7a890510bc7aec8ff67db",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "63d79668e422072d20272df159b61f5c",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "92A4E5CD-41AE-4D51-B704-303BF595D570:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "92A4E5CD-41AE-4D51-B704-303BF595D570"
+    },
+    "serialNumber": "175FC8BE",
+    "softwareVersion": "1.0",
+    "time": "2024-12-07T18:14:48.46Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "e820b83c612675bbae60479d00a93562",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "4ff673f598c7a890510bc7aec8ff67db",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "4ee99548b02235477d5bc4735479f4a7",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "462CE38A-6B3B-4AC1-82A0-698CCDA8D4A5:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "462CE38A-6B3B-4AC1-82A0-698CCDA8D4A5"
+    },
+    "serialNumber": "175FC8BD",
+    "softwareVersion": "1.0",
+    "time": "2024-12-05T14:36:44.597Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "e820b83c612675bbae60479d00a93562",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "4ff673f598c7a890510bc7aec8ff67db",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "635b73e9d3c228406103481c652d4d4e",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "33699D54-237E-4BCF-87E5-75D8CD2C6957:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "33699D54-237E-4BCF-87E5-75D8CD2C6957"
+    },
+    "serialNumber": "175FC8BF",
+    "softwareVersion": "1.0",
+    "time": "2024-12-03T21:01:01.874Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "e820b83c612675bbae60479d00a93562",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "4ff673f598c7a890510bc7aec8ff67db",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "758912770d7d7e3cf2fe64ad720b1122",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "349037BE-283D-4AC4-AB11-9D5D031428B2:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "349037BE-283D-4AC4-AB11-9D5D031428B2"
+    },
+    "serialNumber": "175FC8BE",
+    "softwareVersion": "1.0",
+    "time": "2024-12-01T12:42:57.672Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "e820b83c612675bbae60479d00a93562",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "30a8f67eb325dade5f34eb0163093092",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "f627fb2c5ef755dd3e489ed2b24d0d96",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "7AA1D7C1-5CFB-448F-8292-BED0F6AF8D91:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "7AA1D7C1-5CFB-448F-8292-BED0F6AF8D91"
+    },
+    "serialNumber": "175FC8BD",
+    "softwareVersion": "1.0",
+    "time": "2024-11-29T13:19:14.401Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "e820b83c612675bbae60479d00a93562",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "30a8f67eb325dade5f34eb0163093092",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "7acbd79b9d7e6301687d1bb15a08f414",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "89BB8FA4-4F3D-487F-9F52-23696D3043D4:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "89BB8FA4-4F3D-487F-9F52-23696D3043D4"
+    },
+    "serialNumber": "175FC8BF",
+    "softwareVersion": "1.0",
+    "time": "2024-11-27T02:02:45.016Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "e820b83c612675bbae60479d00a93562",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "30a8f67eb325dade5f34eb0163093092",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "3d6ee4a7d86793d5bcb5543a36d4c6db",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "653FAA2A-4470-43F4-A487-871FE591C05F:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "653FAA2A-4470-43F4-A487-871FE591C05F"
+    },
+    "serialNumber": "175FC8BF",
+    "softwareVersion": "1.0",
+    "time": "2024-11-27T01:31:00.558Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "e820b83c612675bbae60479d00a93562",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "30a8f67eb325dade5f34eb0163093092",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "69f576b27bf49c57f42b540c1965891b",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "288A4D4F-F9FA-47E5-B442-7C0EC7C1CA6B:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "288A4D4F-F9FA-47E5-B442-7C0EC7C1CA6B"
+    },
+    "serialNumber": "175FC8BE",
+    "softwareVersion": "1.0",
+    "time": "2024-11-25T23:01:14.473Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "e820b83c612675bbae60479d00a93562",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "30a8f67eb325dade5f34eb0163093092",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "0f87200b54e5ae5f09da5dfeabeb924b",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "DE99C4BF-63BC-4CF9-94E0-894C6535B315:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "DE99C4BF-63BC-4CF9-94E0-894C6535B315"
+    },
+    "serialNumber": "175FC8BD",
+    "softwareVersion": "1.0",
+    "time": "2024-11-24T04:44:13.529Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "e820b83c612675bbae60479d00a93562",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "30a8f67eb325dade5f34eb0163093092",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "6ce759e521d5362864c19128a92d9277",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "9130BE39-C937-4E39-918B-40B68F697CEC:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "9130BE39-C937-4E39-918B-40B68F697CEC"
+    },
+    "serialNumber": "175FC8BF",
+    "softwareVersion": "1.0",
+    "time": "2024-11-22T13:00:32.977Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "e820b83c612675bbae60479d00a93562",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "6752bfd500652ae6d4fadd526dc569c9",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "e154ec33f436f82f9379ead09bdec962",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "697D0670-8ADA-465D-89C0-790DC4B4C239:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "697D0670-8ADA-465D-89C0-790DC4B4C239"
+    },
+    "serialNumber": "175FC8BE",
+    "softwareVersion": "1.0",
+    "time": "2024-11-19T13:16:29.338Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  },
+  {
+    "activeSchedule": "Default",
+    "associations": [
+      {
+        "id": "e820b83c612675bbae60479d00a93562",
+        "reason": "controllerSettings",
+        "type": "datum"
+      },
+      {
+        "id": "6752bfd500652ae6d4fadd526dc569c9",
+        "reason": "cgmSettings",
+        "type": "datum"
+      }
+    ],
+    "automatedDelivery": true,
+    "basal": {
+      "rateMaximum": {
+        "units": "Units/hour",
+        "value": 6
+      }
+    },
+    "basalSchedules": {
+      "Default": [
+        {
+          "rate": 1,
+          "start": 0
+        },
+        {
+          "rate": 1.1,
+          "start": 25200000
+        },
+        {
+          "rate": 1.2,
+          "start": 32400000
+        },
+        {
+          "rate": 1.1,
+          "start": 43200000
+        },
+        {
+          "rate": 0.95,
+          "start": 79200000
+        }
+      ]
+    },
+    "bgSafetyLimit": 3.88552,
+    "bgTargetPreprandial": {
+      "high": 4.4406,
+      "low": 4.4406
+    },
+    "bgTargets": {
+      "Default": [
+        {
+          "high": 5.55075,
+          "low": 5.55075,
+          "start": 0
+        }
+      ]
+    },
+    "bolus": {
+      "amountMaximum": {
+        "units": "Units",
+        "value": 15
+      }
+    },
+    "carbRatios": {
+      "Default": [
+        {
+          "amount": 7.5,
+          "start": 0
+        },
+        {
+          "amount": 8,
+          "start": 36000000
+        }
+      ]
+    },
+    "display": {
+      "bloodGlucose": {
+        "units": "mg/dL"
+      }
+    },
+    "firmwareVersion": "4.10.0 1.4.0",
+    "hardwareVersion": "4",
+    "id": "c4d64c4a973ab686dc081912a12cce00",
+    "insulinFormulation": {
+      "simple": {
+        "actingType": "rapid",
+        "brand": "Humalog"
+      }
+    },
+    "insulinSensitivities": {
+      "Default": [
+        {
+          "amount": 2.2203,
+          "start": 0
+        },
+        {
+          "amount": 2.10928,
+          "start": 32400000
+        },
+        {
+          "amount": 1.94276,
+          "start": 79200000
+        }
+      ]
+    },
+    "manufacturers": [
+      "Insulet"
+    ],
+    "model": "Dash",
+    "name": "Omnipod-Dash",
+    "origin": {
+      "id": "F63E0DF8-674D-4D1C-A3F3-BF94EC05409D:pumpSettings",
+      "name": "org.tidepool.Loop",
+      "type": "application",
+      "version": "1.3.0+7634"
+    },
+    "payload": {
+      "syncIdentifier": "F63E0DF8-674D-4D1C-A3F3-BF94EC05409D"
+    },
+    "serialNumber": "175FC8BD",
+    "softwareVersion": "1.0",
+    "time": "2024-11-17T13:40:35.914Z",
+    "timezone": "America/Chicago",
+    "timezoneOffset": -360,
+    "type": "pumpSettings",
+    "units": {
+      "bg": "mmol/L",
+      "carb": "grams",
+      "insulin": "Units"
+    },
+    "uploadId": "2342fb9b5779acb64babe49679351541"
+  }
+]

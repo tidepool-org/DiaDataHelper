@@ -1,0 +1,206 @@
+[
+	{
+		"id": "8b3c3ef27f61165c81946f395e685057",
+		"origin": {
+			"id": "46a243fc7f6e0e0b056e4debb89b1a66:deviceEvent/status",
+			"name": "org.tidepool.palmtree.Loop",
+			"type": "application",
+			"version": "1.3.0+7634"
+		},
+		"payload": {
+			"syncIdentifier": "46a243fc7f6e0e0b056e4debb89b1a66"
+		},
+		"provenance": {
+			"byUserID": "c59c2e8d8e",
+			"clientID": "tidepool-loop",
+			"sourceIP": "184.57.66.121"
+		},
+		"reason": {
+			"resumed": "manual"
+		},
+		"status": "resumed",
+		"subType": "status",
+		"time": "2024-10-23T13:28:35.771Z",
+		"type": "deviceEvent",
+		"uploadId": "962c51a968bb176e97c9d3812ebee100"
+	},
+	{
+		"id": "46eb8493bd41e8da726c4977e94381ad",
+		"origin": {
+			"id": "fad0b9ab9d20560b4afc54bf0b6e2a3a:deviceEvent/prime",
+			"name": "org.tidepool.palmtree.Loop",
+			"type": "application",
+			"version": "1.3.0+7634"
+		},
+		"payload": {
+			"syncIdentifier": "fad0b9ab9d20560b4afc54bf0b6e2a3a"
+		},
+		"primeTarget": "tubing",
+		"provenance": {
+			"byUserID": "c59c2e8d8e",
+			"clientID": "tidepool-loop",
+			"sourceIP": "184.57.66.121"
+		},
+		"subType": "prime",
+		"time": "2024-10-23T13:28:35.129Z",
+		"type": "deviceEvent",
+		"uploadId": "962c51a968bb176e97c9d3812ebee100"
+	},
+	{
+		"alarmType": "no_delivery",
+		"id": "3bd336cb9ddfb41fe5d04c8c0d0db78b",
+		"origin": {
+			"id": "7545e38034729782c0bd539e878d576f:deviceEvent/alarm",
+			"name": "org.tidepool.palmtree.Loop",
+			"type": "application",
+			"version": "1.3.0+7620"
+		},
+		"payload": {
+			"syncIdentifier": "7545e38034729782c0bd539e878d576f"
+		},
+		"provenance": {
+			"byUserID": "c59c2e8d8e",
+			"clientID": "tidepool-loop",
+			"sourceIP": "184.57.66.121"
+		},
+		"subType": "alarm",
+		"time": "2024-10-21T12:11:58.297Z",
+		"type": "deviceEvent",
+		"uploadId": "962c51a968bb176e97c9d3812ebee100"
+	},
+	{
+		"alarmType": "no_delivery",
+		"id": "54d713597e762a1009474e607db96c8b",
+		"origin": {
+			"id": "1a37d211a36ff7915beef0ab77c6f8a0:deviceEvent/alarm",
+			"name": "org.tidepool.palmtree.Loop",
+			"type": "application",
+			"version": "1.3.0+7620"
+		},
+		"payload": {
+			"syncIdentifier": "1a37d211a36ff7915beef0ab77c6f8a0"
+		},
+		"provenance": {
+			"byUserID": "c59c2e8d8e",
+			"clientID": "tidepool-loop",
+			"sourceIP": "184.57.66.121"
+		},
+		"subType": "alarm",
+		"time": "2024-10-21T07:56:05.083Z",
+		"type": "deviceEvent",
+		"uploadId": "962c51a968bb176e97c9d3812ebee100"
+	},
+	{
+		"id": "717dcd4c4b49e080d2cadf60dcd8c1d0",
+		"origin": {
+			"id": "324d4e516901ca591d1c31b6d77ebd13:deviceEvent/status",
+			"name": "org.tidepool.palmtree.Loop",
+			"type": "application",
+			"version": "1.3.0+7620"
+		},
+		"payload": {
+			"syncIdentifier": "324d4e516901ca591d1c31b6d77ebd13"
+		},
+		"provenance": {
+			"byUserID": "c59c2e8d8e",
+			"clientID": "tidepool-loop",
+			"sourceIP": "184.57.66.121"
+		},
+		"reason": {
+			"resumed": "manual"
+		},
+		"status": "resumed",
+		"subType": "status",
+		"time": "2024-10-18T04:12:42.752Z",
+		"type": "deviceEvent",
+		"uploadId": "962c51a968bb176e97c9d3812ebee100"
+	},
+	{
+		"id": "2b7d7400224da4f49a2bad8f0a785e3b",
+		"origin": {
+			"id": "43cc1483ca125e5bcedc8f3297d791f2:deviceEvent/prime",
+			"name": "org.tidepool.palmtree.Loop",
+			"type": "application",
+			"version": "1.3.0+7620"
+		},
+		"payload": {
+			"syncIdentifier": "43cc1483ca125e5bcedc8f3297d791f2"
+		},
+		"primeTarget": "tubing",
+		"provenance": {
+			"byUserID": "c59c2e8d8e",
+			"clientID": "tidepool-loop",
+			"sourceIP": "184.57.66.121"
+		},
+		"subType": "prime",
+		"time": "2024-10-18T04:12:42.111Z",
+		"type": "deviceEvent",
+		"uploadId": "962c51a968bb176e97c9d3812ebee100"
+	},
+	{
+		"alarmType": "no_delivery",
+		"id": "806e3d78c89d7320fed4f77453a35286",
+		"origin": {
+			"id": "40017c357fbc6204a8f2fde9048404b6:deviceEvent/alarm",
+			"name": "org.tidepool.palmtree.Loop",
+			"type": "application",
+			"version": "1.3.0+7620"
+		},
+		"payload": {
+			"syncIdentifier": "40017c357fbc6204a8f2fde9048404b6"
+		},
+		"provenance": {
+			"byUserID": "c59c2e8d8e",
+			"clientID": "tidepool-loop",
+			"sourceIP": "184.57.66.121"
+		},
+		"subType": "alarm",
+		"time": "2024-10-18T04:09:40.275Z",
+		"type": "deviceEvent",
+		"uploadId": "962c51a968bb176e97c9d3812ebee100"
+	},
+	{
+		"alarmType": "no_delivery",
+		"id": "d26a478d0672231b53a9951193f7f86a",
+		"origin": {
+			"id": "dd97f8d530ef51e65afa402cc39fc67f:deviceEvent/alarm",
+			"name": "org.tidepool.palmtree.Loop",
+			"type": "application",
+			"version": "1.3.0+7620"
+		},
+		"payload": {
+			"syncIdentifier": "dd97f8d530ef51e65afa402cc39fc67f"
+		},
+		"provenance": {
+			"byUserID": "c59c2e8d8e",
+			"clientID": "tidepool-loop",
+			"sourceIP": "184.57.66.121"
+		},
+		"subType": "alarm",
+		"time": "2024-10-18T04:09:01.571Z",
+		"type": "deviceEvent",
+		"uploadId": "962c51a968bb176e97c9d3812ebee100"
+	},
+	{
+		"alarmType": "no_delivery",
+		"id": "249986e4c93367ab6326733c40f2369d",
+		"origin": {
+			"id": "173522638fb93df51bbdc3c82c452cd9:deviceEvent/alarm",
+			"name": "org.tidepool.palmtree.Loop",
+			"type": "application",
+			"version": "1.3.0+7620"
+		},
+		"payload": {
+			"syncIdentifier": "173522638fb93df51bbdc3c82c452cd9"
+		},
+		"provenance": {
+			"byUserID": "c59c2e8d8e",
+			"clientID": "tidepool-loop",
+			"sourceIP": "184.57.66.121"
+		},
+		"subType": "alarm",
+		"time": "2024-10-18T03:31:10.774Z",
+		"type": "deviceEvent",
+		"uploadId": "962c51a968bb176e97c9d3812ebee100"
+	}
+]

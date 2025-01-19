@@ -1,0 +1,296 @@
+[
+	{
+		"activeSchedule": "Default",
+		"associations": [
+			{
+				"id": "29768701a2995526d384758cecc3d23e",
+				"reason": "controllerSettings",
+				"type": "datum"
+			},
+			{
+				"id": "e946ef8e6326739f6597b62048f9b249",
+				"reason": "cgmSettings",
+				"type": "datum"
+			}
+		],
+		"automatedDelivery": true,
+		"basal": {
+			"rateMaximum": {
+				"units": "Units/hour",
+				"value": 6
+			}
+		},
+		"basalSchedules": {
+			"Default": [
+				{
+					"rate": 1,
+					"start": 0
+				},
+				{
+					"rate": 1.1,
+					"start": 25200000
+				},
+				{
+					"rate": 1.2,
+					"start": 32400000
+				},
+				{
+					"rate": 1.1,
+					"start": 43200000
+				},
+				{
+					"rate": 0.95,
+					"start": 79200000
+				}
+			]
+		},
+		"bgSafetyLimit": 3.88552,
+		"bgTargetPreprandial": {
+			"high": 4.4406,
+			"low": 4.4406
+		},
+		"bgTargets": {
+			"Default": [
+				{
+					"high": 5.55075,
+					"low": 5.55075,
+					"start": 0
+				}
+			]
+		},
+		"bolus": {
+			"amountMaximum": {
+				"units": "Units",
+				"value": 15
+			}
+		},
+		"carbRatios": {
+			"Default": [
+				{
+					"amount": 7.5,
+					"start": 0
+				},
+				{
+					"amount": 8,
+					"start": 36000000
+				}
+			]
+		},
+		"display": {
+			"bloodGlucose": {
+				"units": "mg/dL"
+			}
+		},
+		"firmwareVersion": "4.10.0 1.4.0",
+		"hardwareVersion": "4",
+		"id": "0d4482e64fcaf64c6e7aab813f811538",
+		"insulinFormulation": {
+			"simple": {
+				"actingType": "rapid",
+				"brand": "Humalog"
+			}
+		},
+		"insulinSensitivities": {
+			"Default": [
+				{
+					"amount": 2.2203,
+					"start": 0
+				},
+				{
+					"amount": 2.10928,
+					"start": 32400000
+				},
+				{
+					"amount": 1.94276,
+					"start": 79200000
+				}
+			]
+		},
+		"manufacturers": [
+			"Insulet"
+		],
+		"model": "Dash",
+		"name": "Omnipod-Dash",
+		"origin": {
+			"id": "A4090061-FDFD-40CF-BC15-745E119016E2:pumpSettings",
+			"name": "com.loopkit.Loop",
+			"type": "application",
+			"version": "3.4.1+57"
+		},
+		"overridePresets": {
+			"120 for 3": {
+				"abbreviation": "🤹‍♂️",
+				"basalRateScaleFactor": 1.2,
+				"bgTarget": {
+					"high": 5.55075,
+					"low": 4.99567
+				},
+				"carbRatioScaleFactor": 0.8333333333333334,
+				"duration": 10800,
+				"insulinSensitivityScaleFactor": 0.8333333333333334
+			},
+			"130 ": {
+				"abbreviation": "😷",
+				"bgTarget": {
+					"high": 7.21597,
+					"low": 7.21597
+				}
+			},
+			"95": {
+				"abbreviation": "⚠️",
+				"bgTarget": {
+					"high": 5.27321,
+					"low": 5.27321
+				},
+				"duration": 14400
+			},
+			"Afrezza": {
+				"abbreviation": "🙅🏻‍♂️",
+				"basalRateScaleFactor": 0.1,
+				"bgTarget": {
+					"high": 13.87687,
+					"low": 13.87687
+				},
+				"carbRatioScaleFactor": 10,
+				"duration": 1800,
+				"insulinSensitivityScaleFactor": 10
+			},
+			"Bad CGM": {
+				"abbreviation": "🙃❌",
+				"bgTarget": {
+					"high": 7.21597,
+					"low": 7.21597
+				}
+			},
+			"CV19 Booster": {
+				"abbreviation": "💉",
+				"basalRateScaleFactor": 1.25,
+				"carbRatioScaleFactor": 0.8,
+				"insulinSensitivityScaleFactor": 0.8
+			},
+			"Cardio": {
+				"abbreviation": "🕺",
+				"bgTarget": {
+					"high": 9.99135,
+					"low": 9.99135
+				},
+				"duration": 7200
+			},
+			"Cardio End": {
+				"abbreviation": "‼️",
+				"bgTarget": {
+					"high": 5.55075,
+					"low": 5.55075
+				},
+				"duration": 900
+			},
+			"Extended Hypo": {
+				"abbreviation": "🧟‍♂️🧟‍♂️",
+				"bgTarget": {
+					"high": 6.6609,
+					"low": 6.6609
+				},
+				"duration": 10800
+			},
+			"High Fat": {
+				"abbreviation": "🍽",
+				"basalRateScaleFactor": 1.4,
+				"bgTarget": {
+					"high": 4.99567,
+					"low": 4.99567
+				},
+				"carbRatioScaleFactor": 0.7142857142857143,
+				"duration": 25200,
+				"insulinSensitivityScaleFactor": 0.7142857142857143
+			},
+			"Hypo": {
+				"abbreviation": "🧟‍♂️",
+				"basalRateScaleFactor": 0.9,
+				"bgTarget": {
+					"high": 7.21597,
+					"low": 7.21597
+				},
+				"carbRatioScaleFactor": 1.1111111111111112,
+				"duration": 3600,
+				"insulinSensitivityScaleFactor": 1.1111111111111112
+			},
+			"Pizza": {
+				"abbreviation": "🍕",
+				"basalRateScaleFactor": 1.3,
+				"bgTarget": {
+					"high": 5.55075,
+					"low": 4.99567
+				},
+				"carbRatioScaleFactor": 0.7692307692307692,
+				"duration": 21600,
+				"insulinSensitivityScaleFactor": 0.7692307692307692
+			},
+			"Snacky": {
+				"abbreviation": "🍻🥨",
+				"basalRateScaleFactor": 1.3,
+				"bgTarget": {
+					"high": 4.99567,
+					"low": 4.99567
+				},
+				"carbRatioScaleFactor": 0.7692307692307692,
+				"insulinSensitivityScaleFactor": 0.7692307692307692
+			},
+			"Strength 150": {
+				"abbreviation": "🏋️‍♂️",
+				"bgTarget": {
+					"high": 8.32612,
+					"low": 8.32612
+				},
+				"duration": 3600
+			},
+			"Travel": {
+				"abbreviation": "✈️",
+				"basalRateScaleFactor": 1.2,
+				"bgTarget": {
+					"high": 5.55075,
+					"low": 4.99567
+				},
+				"carbRatioScaleFactor": 0.8333333333333334,
+				"insulinSensitivityScaleFactor": 0.8333333333333334
+			},
+			"Wakey": {
+				"abbreviation": "🛌",
+				"basalRateScaleFactor": 1.2,
+				"bgTarget": {
+					"high": 5.55075,
+					"low": 5.55075
+				},
+				"carbRatioScaleFactor": 0.8333333333333334,
+				"duration": 7200,
+				"insulinSensitivityScaleFactor": 0.8333333333333334
+			},
+			"Yoga": {
+				"abbreviation": "🧘‍♂️",
+				"bgTarget": {
+					"high": 8.32612,
+					"low": 8.32612
+				}
+			}
+		},
+		"payload": {
+			"syncIdentifier": "A4090061-FDFD-40CF-BC15-745E119016E2"
+		},
+		"provenance": {
+			"byUserID": "398d0ac771",
+			"clientID": "diy-loop",
+			"sourceIP": "76.72.179.230"
+		},
+		"serialNumber": "175FC8BD",
+		"softwareVersion": "1.0",
+		"time": "2024-12-17T13:14:35.042Z",
+		"timezone": "America/Chicago",
+		"timezoneOffset": -360,
+		"type": "pumpSettings",
+		"units": {
+			"bg": "mmol/L",
+			"carb": "grams",
+			"insulin": "Units"
+		},
+		"uploadId": "2342fb9b5779acb64babe49679351541"
+	}
+]
