@@ -1,0 +1,3327 @@
+[
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-19T01:16:00.000Z",
+    "value": 176.2851
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-19T04:43:00.000Z",
+    "value": 227.95176666666663
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-19T10:45:00.000Z",
+    "value": 157.45176666666663
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-19T17:04:00.000Z",
+    "value": 76.10176666666663
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-19T20:12:00.000Z",
+    "value": 114.43509999999992
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-20T01:36:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-20T05:05:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-20T10:22:00.000Z",
+    "value": 77.33333333333331
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-20T14:32:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-20T18:00:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-21T00:06:00.000Z",
+    "value": 90.66666666666666
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-21T04:13:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-21T07:13:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-21T12:31:00.000Z",
+    "value": 97
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-21T15:56:00.000Z",
+    "value": 69.80000000000001
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-21T19:19:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-21T22:29:00.000Z",
+    "value": 256.3333333333333
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-22T04:58:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-22T09:24:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-22T13:35:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-22T19:46:00.000Z",
+    "value": 209.70000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-22T23:11:00.000Z",
+    "value": 146.49000000000004
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-23T04:13:00.000Z",
+    "value": 160.49000000000004
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-23T10:39:00.000Z",
+    "value": 130.29000000000005
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-23T16:04:00.000Z",
+    "value": 97.15000000000006
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-23T22:23:00.000Z",
+    "value": 97.81666666666672
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-24T03:31:00.000Z",
+    "value": 63.616666666666724
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-24T06:49:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-24T10:59:00.000Z",
+    "value": 146.33333333333331
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-24T15:23:00.000Z",
+    "value": 174.33333333333331
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-24T20:51:00.000Z",
+    "value": 182.73333333333332
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-25T00:11:00.000Z",
+    "value": 216.73333333333335
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-25T06:31:00.000Z",
+    "value": 192.53333333333336
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-25T10:48:00.000Z",
+    "value": 161.19333333333338
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-25T15:14:00.000Z",
+    "value": 165.5266666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-25T18:31:00.000Z",
+    "value": 115.22666666666672
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-26T00:33:00.000Z",
+    "value": 64.01666666666674
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-26T05:43:00.000Z",
+    "value": 220.6833333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-26T08:57:00.000Z",
+    "value": 267.6833333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-26T14:59:00.000Z",
+    "value": 281.7833333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-26T19:05:00.000Z",
+    "value": 282.11666666666673
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-27T01:34:00.000Z",
+    "value": 265.0166666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-27T06:40:00.000Z",
+    "value": 247.8466666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-27T10:03:00.000Z",
+    "value": 271.5133333333333
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-27T13:21:00.000Z",
+    "value": 261.4133333333333
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-27T16:44:00.000Z",
+    "value": 246.3433333333333
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-27T19:48:00.000Z",
+    "value": 250.3433333333333
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-28T01:10:00.000Z",
+    "value": 217.14333333333332
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-28T05:36:00.000Z",
+    "value": 183.10333333333332
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-28T12:04:00.000Z",
+    "value": 214.10333333333335
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-28T16:06:00.000Z",
+    "value": 171.80333333333337
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-28T20:26:00.000Z",
+    "value": 122.9933333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-29T00:43:00.000Z",
+    "value": 170.99333333333345
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-29T06:55:00.000Z",
+    "value": 116.59333333333346
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-29T13:03:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-29T16:32:00.000Z",
+    "value": 223
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-29T21:51:00.000Z",
+    "value": 274
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-30T02:13:00.000Z",
+    "value": 289.3
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-30T05:27:00.000Z",
+    "value": 286.9666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-30T09:33:00.000Z",
+    "value": 234.6666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-30T12:40:00.000Z",
+    "value": 182.85666666666674
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-09-30T19:03:00.000Z",
+    "value": 220.52333333333343
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-01T01:23:00.000Z",
+    "value": 180.22333333333344
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-01T04:24:00.000Z",
+    "value": 132.01333333333346
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-01T07:24:00.000Z",
+    "value": 152.3466666666668
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-01T12:53:00.000Z",
+    "value": 141.2466666666668
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-01T19:08:00.000Z",
+    "value": 125.87666666666681
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-02T01:24:00.000Z",
+    "value": 170.54333333333346
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-02T07:32:00.000Z",
+    "value": 115.14333333333347
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-02T11:51:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-02T18:14:00.000Z",
+    "value": 139.66666666666669
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-02T21:19:00.000Z",
+    "value": 165.66666666666669
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-03T03:21:00.000Z",
+    "value": 173.4666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-03T06:46:00.000Z",
+    "value": 203.8
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-03T11:04:00.000Z",
+    "value": 195.70000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-03T14:08:00.000Z",
+    "value": 181.23000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-03T17:12:00.000Z",
+    "value": 189.23000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-03T21:24:00.000Z",
+    "value": 122.83000000000003
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-04T01:34:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-04T05:45:00.000Z",
+    "value": 253
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-04T10:11:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-04T16:32:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-04T20:01:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-05T00:30:00.000Z",
+    "value": 179.60000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-05T06:53:00.000Z",
+    "value": 95.32000000000004
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-05T10:01:00.000Z",
+    "value": 106.98666666666668
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-05T16:29:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-05T21:40:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-06T00:56:00.000Z",
+    "value": 101.33333333333331
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-06T04:15:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-06T07:31:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-06T10:32:00.000Z",
+    "value": 111
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-06T15:37:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-06T18:55:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-06T23:04:00.000Z",
+    "value": 98
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-07T02:15:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-07T05:20:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-07T08:23:00.000Z",
+    "value": 117.33333333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-07T12:39:00.000Z",
+    "value": 79.03333333333336
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-07T17:47:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-07T20:59:00.000Z",
+    "value": 299.6666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-08T00:59:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-08T07:02:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-08T13:27:00.000Z",
+    "value": 280.56666666666666
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-08T19:29:00.000Z",
+    "value": 249.36666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-08T22:39:00.000Z",
+    "value": 215.92666666666668
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-09T01:46:00.000Z",
+    "value": 206.59333333333336
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-09T05:02:00.000Z",
+    "value": 169.39333333333337
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-09T09:10:00.000Z",
+    "value": 134.1533333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-09T14:25:00.000Z",
+    "value": 154.48666666666674
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-09T20:38:00.000Z",
+    "value": 143.38666666666674
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-10T02:44:00.000Z",
+    "value": 128.01666666666674
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-10T07:52:00.000Z",
+    "value": 145.6833333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-10T12:03:00.000Z",
+    "value": 99.38333333333341
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-10T16:10:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-10T20:27:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-11T01:51:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-11T05:56:00.000Z",
+    "value": 248.82999999999998
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-11T11:06:00.000Z",
+    "value": 252.82999999999998
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-11T16:28:00.000Z",
+    "value": 219.63
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-11T20:39:00.000Z",
+    "value": 185.59
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-12T01:07:00.000Z",
+    "value": 199.92333333333335
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-12T07:13:00.000Z",
+    "value": 152.62333333333336
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-12T13:31:00.000Z",
+    "value": 102.31333333333339
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-12T17:53:00.000Z",
+    "value": 126.31333333333339
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-13T00:20:00.000Z",
+    "value": 99.1133333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-13T03:49:00.000Z",
+    "value": 66.87333333333342
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-13T09:15:00.000Z",
+    "value": 276.87333333333345
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-13T12:15:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-13T18:16:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-13T22:34:00.000Z",
+    "value": 270.56666666666666
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-14T01:47:00.000Z",
+    "value": 236.36666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-14T08:03:00.000Z",
+    "value": 202.0266666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-14T13:13:00.000Z",
+    "value": 192.69333333333338
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-14T18:20:00.000Z",
+    "value": 155.4933333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-14T21:31:00.000Z",
+    "value": 120.25333333333342
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-15T01:56:00.000Z",
+    "value": 141.92000000000007
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-15T08:19:00.000Z",
+    "value": 62.42000000000007
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-15T12:47:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-15T17:50:00.000Z",
+    "value": 156.33333333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-15T23:01:00.000Z",
+    "value": 187.33333333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-16T05:23:00.000Z",
+    "value": 196.63333333333335
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-16T08:39:00.000Z",
+    "value": 220.3
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-16T14:52:00.000Z",
+    "value": 210.20000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-16T18:53:00.000Z",
+    "value": 195.13000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-16T23:06:00.000Z",
+    "value": 226.46333333333337
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-17T05:13:00.000Z",
+    "value": 167.0633333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-17T10:18:00.000Z",
+    "value": 101.08333333333341
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-17T13:20:00.000Z",
+    "value": 116.08333333333337
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-17T18:25:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-17T22:41:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-18T03:05:00.000Z",
+    "value": 90
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-18T07:28:00.000Z",
+    "value": 77.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-18T13:28:00.000Z",
+    "value": 62.23000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-18T16:40:00.000Z",
+    "value": 252.23000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-18T21:08:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-19T03:25:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-19T08:30:00.000Z",
+    "value": 297.5666666666666
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-19T14:49:00.000Z",
+    "value": 254.26666666666662
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-19T21:07:00.000Z",
+    "value": 205.15666666666664
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-20T03:29:00.000Z",
+    "value": 219.15666666666664
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-20T06:52:00.000Z",
+    "value": 188.95666666666665
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-20T10:07:00.000Z",
+    "value": 155.81666666666666
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-20T14:36:00.000Z",
+    "value": 174.14999999999998
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-20T19:56:00.000Z",
+    "value": 93.64999999999998
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-21T00:16:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-21T03:28:00.000Z",
+    "value": 196.33333333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-21T07:55:00.000Z",
+    "value": 239.33333333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-21T12:24:00.000Z",
+    "value": 252.23333333333335
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-21T16:40:00.000Z",
+    "value": 280.23333333333335
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-21T22:56:00.000Z",
+    "value": 219.83333333333337
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-22T04:02:00.000Z",
+    "value": 153.5533333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-22T08:24:00.000Z",
+    "value": 167.5533333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-22T11:47:00.000Z",
+    "value": 137.3533333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-22T15:48:00.000Z",
+    "value": 104.21333333333342
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-22T18:58:00.000Z",
+    "value": 118.21333333333342
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-23T00:26:00.000Z",
+    "value": 88.01333333333343
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-23T05:26:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-23T08:45:00.000Z",
+    "value": 179.66666666666666
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-23T13:07:00.000Z",
+    "value": 217.66666666666666
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-23T16:26:00.000Z",
+    "value": 229.06666666666666
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-23T19:26:00.000Z",
+    "value": 270.06666666666666
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-23T22:44:00.000Z",
+    "value": 230.76666666666668
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-24T04:08:00.000Z",
+    "value": 182.8566666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-24T09:22:00.000Z",
+    "value": 179.8566666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-24T14:26:00.000Z",
+    "value": 161.75666666666672
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-24T20:44:00.000Z",
+    "value": 144.28666666666672
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-25T00:58:00.000Z",
+    "value": 171.28666666666672
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-25T06:15:00.000Z",
+    "value": 162.18666666666672
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-25T10:43:00.000Z",
+    "value": 147.41666666666674
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-25T14:11:00.000Z",
+    "value": 162.08333333333337
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-25T18:23:00.000Z",
+    "value": 97.68333333333338
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-25T21:37:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-26T00:56:00.000Z",
+    "value": 299.6666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-26T05:15:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-26T10:37:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-26T15:40:00.000Z",
+    "value": 274.5666666666666
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-26T19:05:00.000Z",
+    "value": 207.16666666666663
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-26T22:23:00.000Z",
+    "value": 138.78666666666663
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-27T04:48:00.000Z",
+    "value": 183.78666666666663
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-27T08:05:00.000Z",
+    "value": 111.28666666666663
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-27T12:21:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-27T17:24:00.000Z",
+    "value": 129.66666666666669
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-27T21:40:00.000Z",
+    "value": 152.66666666666669
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-28T00:43:00.000Z",
+    "value": 159.5666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-28T05:43:00.000Z",
+    "value": 200.90000000000003
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-28T11:43:00.000Z",
+    "value": 144.50000000000006
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-28T17:02:00.000Z",
+    "value": 79.42000000000006
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-28T20:21:00.000Z",
+    "value": 73.08666666666673
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-29T01:44:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-29T05:54:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-29T11:07:00.000Z",
+    "value": 117.66666666666663
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-29T17:11:00.000Z",
+    "value": 62.26666666666664
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-29T22:21:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-30T01:46:00.000Z",
+    "value": 149.66666666666669
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-30T04:51:00.000Z",
+    "value": 178.66666666666669
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-30T10:00:00.000Z",
+    "value": 187.36666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-30T15:22:00.000Z",
+    "value": 185.0333333333333
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-30T20:42:00.000Z",
+    "value": 132.73333333333332
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-31T01:54:00.000Z",
+    "value": 80.92333333333335
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-31T06:59:00.000Z",
+    "value": 104.59
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-31T13:17:00.000Z",
+    "value": 94.49000000000001
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-31T16:40:00.000Z",
+    "value": 79.42000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-10-31T19:45:00.000Z",
+    "value": 107.75333333333333
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-01T02:09:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-01T07:27:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-01T10:57:00.000Z",
+    "value": 124.66666666666663
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-01T15:01:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-01T19:24:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-02T01:37:00.000Z",
+    "value": 90
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-02T06:54:00.000Z",
+    "value": 77.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-02T11:01:00.000Z",
+    "value": 62.23000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-02T16:03:00.000Z",
+    "value": 165.56333333333336
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-02T21:33:00.000Z",
+    "value": 196.56333333333336
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-03T02:43:00.000Z",
+    "value": 205.86333333333337
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-03T09:04:00.000Z",
+    "value": 226.19666666666672
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-03T15:04:00.000Z",
+    "value": 215.09666666666672
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-03T21:29:00.000Z",
+    "value": 199.72666666666672
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-04T01:30:00.000Z",
+    "value": 207.7266666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-04T04:55:00.000Z",
+    "value": 141.3266666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-04T10:09:00.000Z",
+    "value": 73.24666666666671
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-04T15:17:00.000Z",
+    "value": 91.24666666666673
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-04T18:46:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-04T22:54:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-05T05:17:00.000Z",
+    "value": 80.66666666666666
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-05T08:40:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-05T14:08:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-05T17:15:00.000Z",
+    "value": 121.33333333333331
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-05T21:26:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-06T01:42:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-06T07:01:00.000Z",
+    "value": 114.33333333333337
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-06T10:08:00.000Z",
+    "value": 57.93333333333338
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-06T13:31:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-06T18:52:00.000Z",
+    "value": 233
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-06T23:04:00.000Z",
+    "value": 287
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-07T03:19:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-07T07:37:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-07T13:58:00.000Z",
+    "value": 179.60000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-07T17:22:00.000Z",
+    "value": 95.32000000000004
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-07T21:26:00.000Z",
+    "value": 92.65333333333336
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-08T00:50:00.000Z",
+    "value": 57.45333333333337
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-08T06:00:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-08T12:13:00.000Z",
+    "value": 183
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-08T15:21:00.000Z",
+    "value": 222
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-08T18:26:00.000Z",
+    "value": 233.7
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-08T21:39:00.000Z",
+    "value": 241.36666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-09T04:07:00.000Z",
+    "value": 192.0666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-09T10:30:00.000Z",
+    "value": 141.15666666666672
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-09T14:47:00.000Z",
+    "value": 148.15666666666672
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-09T21:06:00.000Z",
+    "value": 133.05666666666673
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-10T00:25:00.000Z",
+    "value": 116.48666666666674
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-10T05:36:00.000Z",
+    "value": 123.82000000000005
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-10T10:49:00.000Z",
+    "value": 91.62000000000006
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-10T16:01:00.000Z",
+    "value": 57.880000000000074
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-10T21:14:00.000Z",
+    "value": 147.88000000000008
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-11T01:27:00.000Z",
+    "value": 174.88000000000008
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-11T06:37:00.000Z",
+    "value": 182.98000000000008
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-11T10:51:00.000Z",
+    "value": 213.3133333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-11T16:52:00.000Z",
+    "value": 205.2133333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-11T20:08:00.000Z",
+    "value": 190.7433333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-12T02:12:00.000Z",
+    "value": 184.41000000000005
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-12T06:12:00.000Z",
+    "value": 165.31000000000006
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-12T12:18:00.000Z",
+    "value": 147.54000000000008
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-12T15:33:00.000Z",
+    "value": 147.87333333333342
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-12T21:57:00.000Z",
+    "value": 130.77333333333343
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-13T01:14:00.000Z",
+    "value": 113.60333333333344
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-13T05:16:00.000Z",
+    "value": 134.2700000000001
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-13T08:28:00.000Z",
+    "value": 106.0700000000001
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-13T13:38:00.000Z",
+    "value": 73.53000000000011
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-13T18:57:00.000Z",
+    "value": 91.53000000000009
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-13T22:20:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-14T04:44:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-14T10:05:00.000Z",
+    "value": 87.33333333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-14T14:13:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-14T18:37:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-15T00:05:00.000Z",
+    "value": 101.33333333333331
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-15T03:35:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-15T06:48:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-15T10:15:00.000Z",
+    "value": 110.66666666666669
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-15T16:37:00.000Z",
+    "value": 70.3666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-15T20:06:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-16T00:13:00.000Z",
+    "value": 243
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-16T05:18:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-16T11:43:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-16T17:49:00.000Z",
+    "value": 286.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-16T21:59:00.000Z",
+    "value": 274.79999999999995
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-17T03:07:00.000Z",
+    "value": 259.12999999999994
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-17T08:13:00.000Z",
+    "value": 253.12999999999994
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-17T14:34:00.000Z",
+    "value": 216.92999999999995
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-17T19:55:00.000Z",
+    "value": 181.98999999999995
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-18T01:19:00.000Z",
+    "value": 226.98999999999995
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-18T06:19:00.000Z",
+    "value": 154.48999999999995
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-18T12:27:00.000Z",
+    "value": 72.53999999999996
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-18T15:29:00.000Z",
+    "value": 110.87333333333328
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-18T19:41:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-18T22:59:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-19T04:18:00.000Z",
+    "value": 83.33333333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-19T07:41:00.000Z",
+    "value": 69.23333333333335
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-19T12:43:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-19T15:51:00.000Z",
+    "value": 126.33333333333333
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-19T21:19:00.000Z",
+    "value": 148.33333333333331
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-20T02:38:00.000Z",
+    "value": 154.9333333333333
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-20T06:49:00.000Z",
+    "value": 148.59999999999997
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-20T12:02:00.000Z",
+    "value": 129.49999999999997
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-20T15:15:00.000Z",
+    "value": 111.72999999999999
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-20T20:25:00.000Z",
+    "value": 160.06333333333328
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-21T00:38:00.000Z",
+    "value": 88.56333333333328
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-21T04:05:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-21T09:14:00.000Z",
+    "value": 166.33333333333331
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-21T15:28:00.000Z",
+    "value": 200.33333333333331
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-21T21:46:00.000Z",
+    "value": 210.5333333333333
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-22T02:57:00.000Z",
+    "value": 235.19999999999993
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-22T08:09:00.000Z",
+    "value": 173.79999999999995
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-22T13:33:00.000Z",
+    "value": 107.21999999999996
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-22T19:54:00.000Z",
+    "value": 141.21999999999997
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-22T23:12:00.000Z",
+    "value": 117.01999999999998
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-23T03:21:00.000Z",
+    "value": 85.67999999999998
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-23T06:47:00.000Z",
+    "value": 106.34666666666664
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-23T12:57:00.000Z",
+    "value": 78.14666666666665
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-23T16:11:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-23T22:37:00.000Z",
+    "value": 149.66666666666669
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-24T01:48:00.000Z",
+    "value": 178.66666666666669
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-24T05:04:00.000Z",
+    "value": 187.36666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-24T09:25:00.000Z",
+    "value": 208.03333333333336
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-24T15:31:00.000Z",
+    "value": 179.83333333333337
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-24T19:57:00.000Z",
+    "value": 147.29333333333338
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-25T01:16:00.000Z",
+    "value": 151.96000000000004
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-25T05:23:00.000Z",
+    "value": 84.56000000000004
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-25T10:35:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-25T16:57:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-25T23:06:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-26T05:15:00.000Z",
+    "value": 248.82999999999998
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-26T08:30:00.000Z",
+    "value": 256.49666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-26T11:46:00.000Z",
+    "value": 207.1966666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-26T14:56:00.000Z",
+    "value": 156.28666666666672
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-26T21:04:00.000Z",
+    "value": 170.28666666666675
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-27T02:34:00.000Z",
+    "value": 140.08666666666676
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-27T06:57:00.000Z",
+    "value": 106.94666666666677
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-27T10:17:00.000Z",
+    "value": 131.61333333333346
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-27T15:26:00.000Z",
+    "value": 70.21333333333347
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-27T19:50:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-28T00:01:00.000Z",
+    "value": 253
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-28T06:15:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-28T10:28:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-28T13:31:00.000Z",
+    "value": 283.56666666666666
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-28T18:33:00.000Z",
+    "value": 270.46666666666664
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-29T00:55:00.000Z",
+    "value": 254.49666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-29T04:02:00.000Z",
+    "value": 265.16333333333336
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-29T10:21:00.000Z",
+    "value": 233.96333333333337
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-29T13:29:00.000Z",
+    "value": 200.52333333333337
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-29T16:35:00.000Z",
+    "value": 224.52333333333337
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-29T20:52:00.000Z",
+    "value": 197.32333333333338
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-30T00:04:00.000Z",
+    "value": 165.0833333333334
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-30T03:06:00.000Z",
+    "value": 203.41666666666674
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-30T08:17:00.000Z",
+    "value": 128.91666666666674
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-30T13:31:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-30T16:56:00.000Z",
+    "value": 263
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-11-30T21:09:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-01T01:22:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-01T04:45:00.000Z",
+    "value": 270.56666666666666
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-01T08:11:00.000Z",
+    "value": 236.36666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-01T13:40:00.000Z",
+    "value": 202.0266666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-01T20:07:00.000Z",
+    "value": 219.36
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-01T23:10:00.000Z",
+    "value": 190.16000000000003
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-02T03:30:00.000Z",
+    "value": 157.32000000000005
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-02T07:47:00.000Z",
+    "value": 181.32000000000005
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-02T14:04:00.000Z",
+    "value": 154.12000000000006
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-02T17:34:00.000Z",
+    "value": 121.88000000000008
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-02T20:45:00.000Z",
+    "value": 115.88000000000008
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-03T02:10:00.000Z",
+    "value": 79.68000000000009
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-03T05:13:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-03T08:28:00.000Z",
+    "value": 253
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-03T13:53:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-03T18:13:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-03T23:40:00.000Z",
+    "value": 270.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-04T04:45:00.000Z",
+    "value": 219.6
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-04T11:03:00.000Z",
+    "value": 168.09
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-04T17:19:00.000Z",
+    "value": 169.09000000000003
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-04T22:42:00.000Z",
+    "value": 117.79000000000005
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-05T03:43:00.000Z",
+    "value": 66.28000000000006
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-05T07:52:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-05T13:55:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-05T17:12:00.000Z",
+    "value": 248.82999999999998
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-05T20:34:00.000Z",
+    "value": 282.83
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-06T01:43:00.000Z",
+    "value": 258.63
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-06T07:44:00.000Z",
+    "value": 227.29000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-06T10:49:00.000Z",
+    "value": 254.9566666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-06T15:05:00.000Z",
+    "value": 211.65666666666672
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-06T19:31:00.000Z",
+    "value": 162.54666666666674
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-07T01:01:00.000Z",
+    "value": 183.21333333333342
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-07T04:06:00.000Z",
+    "value": 155.01333333333343
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-07T08:27:00.000Z",
+    "value": 122.47333333333344
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-07T11:55:00.000Z",
+    "value": 157.1400000000001
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-07T18:23:00.000Z",
+    "value": 98.74000000000011
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-08T00:33:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-08T06:40:00.000Z",
+    "value": 153
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-08T09:47:00.000Z",
+    "value": 183
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-08T14:12:00.000Z",
+    "value": 192
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-08T17:39:00.000Z",
+    "value": 230.33333333333331
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-08T21:48:00.000Z",
+    "value": 155.83333333333331
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-09T02:00:00.000Z",
+    "value": 73.28333333333333
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-09T05:25:00.000Z",
+    "value": 101.61666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-09T08:29:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-09T11:36:00.000Z",
+    "value": 73
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-09T16:44:00.000Z",
+    "value": 110.66666666666669
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-09T21:52:00.000Z",
+    "value": 70.3666666666667
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-10T04:18:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-10T10:34:00.000Z",
+    "value": 283
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-10T16:52:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-10T21:14:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-11T02:42:00.000Z",
+    "value": 290.2333333333333
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-11T09:07:00.000Z",
+    "value": 279.13333333333327
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-11T15:33:00.000Z",
+    "value": 263.76333333333326
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-11T22:01:00.000Z",
+    "value": 278.42999999999995
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-12T01:20:00.000Z",
+    "value": 214.02999999999997
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-12T05:25:00.000Z",
+    "value": 146.55
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-12T09:55:00.000Z",
+    "value": 147.55
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-12T13:18:00.000Z",
+    "value": 96.25000000000003
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-12T18:45:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-12T21:57:00.000Z",
+    "value": 146.33333333333331
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-13T03:15:00.000Z",
+    "value": 174.33333333333331
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-13T07:38:00.000Z",
+    "value": 182.73333333333332
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-13T11:03:00.000Z",
+    "value": 207.73333333333335
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-13T15:05:00.000Z",
+    "value": 129.23333333333335
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-13T18:12:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-13T22:18:00.000Z",
+    "value": 223
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-14T04:28:00.000Z",
+    "value": 274
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-14T09:52:00.000Z",
+    "value": 289.3
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-14T16:22:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-14T20:48:00.000Z",
+    "value": 209.70000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-15T03:16:00.000Z",
+    "value": 146.49000000000004
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-15T06:27:00.000Z",
+    "value": 153.49000000000004
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-15T10:45:00.000Z",
+    "value": 138.39000000000004
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-15T16:02:00.000Z",
+    "value": 121.82000000000005
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-15T22:23:00.000Z",
+    "value": 132.48666666666674
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-16T04:26:00.000Z",
+    "value": 101.28666666666675
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-16T07:50:00.000Z",
+    "value": 67.84666666666675
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-16T12:16:00.000Z",
+    "value": 271.18000000000006
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-16T16:46:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-16T21:59:00.000Z",
+    "value": 269.9
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-17T04:22:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-17T08:41:00.000Z",
+    "value": 179.60000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-17T14:59:00.000Z",
+    "value": 95.32000000000004
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-17T19:17:00.000Z",
+    "value": 116.32000000000005
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-17T23:35:00.000Z",
+    "value": 71.02000000000007
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-18T06:01:00.000Z",
+    "value": 53
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-18T12:15:00.000Z",
+    "value": 236.33333333333331
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-18T16:45:00.000Z",
+    "value": 291.3333333333333
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-18T21:45:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-19T03:48:00.000Z",
+    "value": 300
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-19T08:48:00.000Z",
+    "value": 209.70000000000002
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-19T14:15:00.000Z",
+    "value": 146.49000000000004
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-19T20:33:00.000Z",
+    "value": 136.82333333333338
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-20T00:41:00.000Z",
+    "value": 116.72333333333339
+  },
+  {
+    "deviceId": "OneTouchUltra2-JNGZ162-T0111",
+    "type": "smbg",
+    "units": "mg/dl",
+    "time": "2024-12-20T05:44:00.000Z",
+    "value": 98.65333333333339
+  }
+]

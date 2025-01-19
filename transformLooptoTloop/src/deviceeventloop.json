@@ -1,0 +1,180 @@
+[
+	{
+		"associations": [
+			{
+				"id": "0d4482e64fcaf64c6e7aab813f811538",
+				"reason": "pumpSettings",
+				"type": "datum"
+			}
+		],
+		"bgTarget": {
+			"high": 4.4406,
+			"low": 4.4406
+		},
+		"duration": 3600,
+		"id": "4f0feb87eaefe5697998b5652207f35d",
+		"method": "manual",
+		"origin": {
+			"id": "9E3F8B35-3D5D-4710-B273-CF783B9A71BD:deviceEvent/pumpSettingsOverride",
+			"name": "com.loopkit.Loop",
+			"type": "application",
+			"version": "3.4.1+57"
+		},
+		"overrideType": "preprandial",
+		"payload": {
+			"syncIdentifier": "9E3F8B35-3D5D-4710-B273-CF783B9A71BD"
+		},
+		"provenance": {
+			"byUserID": "398d0ac771",
+			"clientID": "diy-loop",
+			"sourceIP": "76.72.179.230"
+		},
+		"subType": "pumpSettingsOverride",
+		"time": "2024-12-17T23:42:48.9Z",
+		"timezone": "America/Chicago",
+		"timezoneOffset": -360,
+		"type": "deviceEvent",
+		"units": {
+			"bg": "mmol/L"
+		},
+		"uploadId": "2342fb9b5779acb64babe49679351541"
+	},
+	{
+		"associations": [
+			{
+				"id": "0d4482e64fcaf64c6e7aab813f811538",
+				"reason": "pumpSettings",
+				"type": "datum"
+			}
+		],
+		"basalRateScaleFactor": 1.2,
+		"bgTarget": {
+			"high": 5.55075,
+			"low": 5.55075
+		},
+		"carbRatioScaleFactor": 0.8333333333333334,
+		"duration": 7200,
+		"id": "2a2ab1ccf62343c24acade6a7c69821b",
+		"insulinSensitivityScaleFactor": 0.8333333333333334,
+		"method": "manual",
+		"origin": {
+			"id": "A4090061-FDFD-40CF-BC15-745E119016E2:deviceEvent/pumpSettingsOverride",
+			"name": "com.loopkit.Loop",
+			"type": "application",
+			"version": "3.4.1+57"
+		},
+		"overridePreset": "Wakey",
+		"overrideType": "preset",
+		"payload": {
+			"syncIdentifier": "A4090061-FDFD-40CF-BC15-745E119016E2"
+		},
+		"provenance": {
+			"byUserID": "398d0ac771",
+			"clientID": "diy-loop",
+			"sourceIP": "76.72.179.230"
+		},
+		"subType": "pumpSettingsOverride",
+		"time": "2024-12-17T13:14:34.974Z",
+		"timezone": "America/Chicago",
+		"timezoneOffset": -360,
+		"type": "deviceEvent",
+		"units": {
+			"bg": "mmol/L"
+		},
+		"uploadId": "2342fb9b5779acb64babe49679351541"
+	},
+	{
+		"associations": [
+			{
+				"id": "0d4482e64fcaf64c6e7aab813f811538",
+				"reason": "pumpSettings",
+				"type": "datum"
+			}
+		],
+		"basalRateScaleFactor": 1.2,
+		"bgTarget": {
+			"high": 5.55075,
+			"low": 5.55075
+		},
+		"carbRatioScaleFactor": 0.8333333333333334,
+		"duration": 7200,
+		"id": "bff9661c162ea139841c688c8f7b48cd",
+		"insulinSensitivityScaleFactor": 0.8333333333333334,
+		"method": "manual",
+		"origin": {
+			"id": "81BD38FB-ED35-4035-A8DC-AAF44CFDEEFF:deviceEvent/pumpSettingsOverride",
+			"name": "com.loopkit.Loop",
+			"type": "application",
+			"version": "3.4.1+57"
+		},
+		"overridePreset": "Wakey",
+		"overrideType": "preset",
+		"payload": {
+			"syncIdentifier": "81BD38FB-ED35-4035-A8DC-AAF44CFDEEFF"
+		},
+		"provenance": {
+			"byUserID": "398d0ac771",
+			"clientID": "diy-loop",
+			"sourceIP": "174.219.124.165"
+		},
+		"subType": "pumpSettingsOverride",
+		"time": "2024-12-17T13:14:34.974Z",
+		"timezone": "America/Chicago",
+		"timezoneOffset": -360,
+		"type": "deviceEvent",
+		"units": {
+			"bg": "mmol/L"
+		},
+		"uploadId": "2342fb9b5779acb64babe49679351541"
+	},
+	{
+		"id": "fc6f994815fb5be6b276e55901ced90f",
+		"origin": {
+			"id": "545383264cd0b204d5512fd3b8216f7e:deviceEvent/status",
+			"name": "com.loopkit.Loop",
+			"type": "application",
+			"version": "3.4.1+57"
+		},
+		"payload": {
+			"syncIdentifier": "545383264cd0b204d5512fd3b8216f7e"
+		},
+		"provenance": {
+			"byUserID": "398d0ac771",
+			"clientID": "diy-loop",
+			"sourceIP": "76.72.179.230"
+		},
+		"reason": {
+			"resumed": "manual"
+		},
+		"status": "resumed",
+		"subType": "status",
+		"time": "2024-12-17T03:52:30.366Z",
+		"type": "deviceEvent",
+		"uploadId": "2342fb9b5779acb64babe49679351541"
+	},
+	{
+		"id": "5e2ac7d461b8f80e6c0e4c7f6ea15388",
+		"origin": {
+			"id": "93e714a675fe00215cb33f3049bc11e0:deviceEvent/status",
+			"name": "com.loopkit.Loop",
+			"type": "application",
+			"version": "3.4.1+57"
+		},
+		"payload": {
+			"syncIdentifier": "93e714a675fe00215cb33f3049bc11e0"
+		},
+		"provenance": {
+			"byUserID": "398d0ac771",
+			"clientID": "diy-loop",
+			"sourceIP": "76.72.179.230"
+		},
+		"reason": {
+			"suspended": "manual"
+		},
+		"status": "suspended",
+		"subType": "status",
+		"time": "2024-12-17T03:48:37.705Z",
+		"type": "deviceEvent",
+		"uploadId": "2342fb9b5779acb64babe49679351541"
+	}
+]
